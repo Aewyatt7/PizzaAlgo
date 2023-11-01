@@ -1,8 +1,8 @@
 Choose your pizza service
 Choose your style of pizza
 Choose your toppings
+Ask if pizza service has the toppings
 Call the pizza service
-Order the pizza
 Ask for delivery
 Give address to pizza service
 Wait for delivery driver to deliver pizza
